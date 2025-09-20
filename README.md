@@ -25,8 +25,8 @@
     ```bash
     sudo apt-get install picocom
   - Used CH340G USB To TTL(Serial) for connecting to pi.
-    <img width="572" height="52" alt="Screenshot 2025-09-20 085744" src="https://github.com/user-attachments/assets/95f21292-648f-49e1-8846-019a73b1b3cc" />
-    <img width="471" height="497" alt="Screenshot 2025-09-20 090430" src="https://github.com/user-attachments/assets/9d0b62fd-6a04-44b9-8f12-c0375f3dd495" />
+  <img width="572" height="52" alt="Screenshot 2025-09-20 085744" src="https://github.com/user-attachments/assets/95f21292-648f-49e1-8846-019a73b1b3cc" />
+  <img width="471" height="497" alt="Screenshot 2025-09-20 090430" src="https://github.com/user-attachments/assets/9d0b62fd-6a04-44b9-8f12-c0375f3dd495" />
 
 
 > **Note:** I couldn't get the Serial Communication working, so I switched to HDMI using a video-capture card and `OBS Studio` to view it on my laptop.
