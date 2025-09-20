@@ -44,5 +44,10 @@
   <img width="546" height="154" alt="Screenshot 2025-09-20 104011" src="https://github.com/user-attachments/assets/2c75eb61-2a08-4bd7-80ec-541a9ae5e3cd" />
 
 
+## 🤝 About Me
+I am a B.Tech (Electronics and Computer Engineering) student exploring Embedded Systems & Linux and The Yocto Project for custom Linux distributions.
+
+
+
 
     
