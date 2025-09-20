@@ -26,7 +26,23 @@
     sudo apt-get install picocam
   - Used CH340G USB To TTL(Serial) for connecting to pi.
     <img width="572" height="52" alt="Screenshot 2025-09-20 085744" src="https://github.com/user-attachments/assets/95f21292-648f-49e1-8846-019a73b1b3cc" />
+    <img width="471" height="497" alt="Screenshot 2025-09-20 090430" src="https://github.com/user-attachments/assets/9d0b62fd-6a04-44b9-8f12-c0375f3dd495" />
 
-> **Note:** I couldn't get the Serial Communication working, So I switched to HDMI using a video-capture card and `OBS Studio` <
+
+> **Note:** I couldn't get the Serial Communication working, so I switched to HDMI using a video-capture card and `OBS Studio` to view it on my laptop.
+  <img width="625" height="243" alt="Screenshot 2025-09-20 102940" src="https://github.com/user-attachments/assets/6fc6ada1-06c7-4c71-9c01-2df7f07cc64d" />
+  - Logged in using `root`.
+  - Ran basic commands:
+    ```bash
+    uname -r
+    uname -a
+    lsblk
+    ls -l
+    pwd
+    free -h
+    mkdir test
+  <img width="546" height="154" alt="Screenshot 2025-09-20 104011" src="https://github.com/user-attachments/assets/2c75eb61-2a08-4bd7-80ec-541a9ae5e3cd" />
+
+
 
     
