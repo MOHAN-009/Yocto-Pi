@@ -27,6 +27,6 @@
   - Used CH340G USB To TTL(Serial) for connecting to pi.
     <img width="572" height="52" alt="Screenshot 2025-09-20 085744" src="https://github.com/user-attachments/assets/95f21292-648f-49e1-8846-019a73b1b3cc" />
 
-> **Note:**
+> **Note:** I couldn't get the Serial Communication working, So I switched to HDMI using a video-capture card and `OBS Studio` <
 
     
