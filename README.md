@@ -20,8 +20,13 @@
     ```bash
     sources/tmp/deploy/images/raspberrypi5/
   - Extracted archive file - `core-image-full-cmdline-raspberrypi5.rootfs.wic.bz2` to get `core-image-full-cmdline-raspberrypi5.rootfs.wic` flashable image.
-  - Flashed onto a microSD card using *balena-Etcher*.
+  - Flashed onto a microSD card using **balena-Etcher**.
   - Installed Picocom
     ```bash
     sudo apt-get install picocam
+  - Used CH340G USB To TTL(Serial) for connecting to pi.
+    <img width="572" height="52" alt="Screenshot 2025-09-20 085744" src="https://github.com/user-attachments/assets/95f21292-648f-49e1-8846-019a73b1b3cc" />
+
+> **Note:**
+
     
