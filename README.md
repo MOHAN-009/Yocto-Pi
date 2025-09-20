@@ -1,6 +1,6 @@
 # Yocto-Pi
 
-## Project Setup
+## 🛠️ Project Setup
   1. Initialised environment `source oe-init-build-env`.
   2. Created a directory at the poky level `../../sources`.
   3. Made changes to local.conf:
