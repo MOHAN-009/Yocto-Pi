@@ -47,6 +47,7 @@ IMAGE_INSTALL:append = " python3 git"
 ```bash
 bitbake -e core-image-full-cmdline | grep "^IMAGE_INSTALL="
 oe-pkgdata-util list-pkgs | egrep "git|python3"
+#Forgot to take a screenshot :(
 ```
 - Flashed the image onto Pi 5 and booted it successfully.
 <img width="1020" height="563" alt="Screenshot 2025-09-21 193454" src="https://github.com/user-attachments/assets/b24646be-8cb6-46b1-a6ee-5a63668a528f" />
@@ -56,7 +57,7 @@ oe-pkgdata-util list-pkgs | egrep "git|python3"
 python3 --version
 python3
 >>>print("Hello World")
->>>Hello World
+Hello World
 >>>exit()
 ```
 <img width="451" height="123" alt="Screenshot 2025-09-21 193755" src="https://github.com/user-attachments/assets/e8b48340-82d5-4e24-a1bd-b77abf0fa0ab" />
