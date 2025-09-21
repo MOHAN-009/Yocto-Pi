@@ -18,6 +18,11 @@ and configuration files. This serves as both my learning diary and a resource fo
    - Built `core-image-full-cmdline` (console-only image)  
    - Booted into Raspberry Pi5 and tested login.  
 
+3. [BBlayers and Packages](03_bblayers-and-packages/README.md)
+   - Learnt how do add/remove bblayers using commands.
+   - How to add specific recipes to local.conf before bitbaking.
+   - Successfully booted to Pi 5 and tested the recipes.
+
 ---
 
 ## 🔮 Next Planned Stages
