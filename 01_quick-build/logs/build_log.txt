@@ -1,0 +1,22 @@
+Loading cache...done.
+Loaded 1878 entries from dependency cache.
+NOTE: Resolving any missing task queue dependencies
+
+Build Configuration:
+BB_VERSION           = "2.8.0"
+BUILD_SYS            = "x86_64-linux"
+NATIVELSBSTRING      = "universal"
+TARGET_SYS           = "x86_64-poky-linux"
+MACHINE              = "qemux86-64"
+DISTRO               = "poky"
+DISTRO_VERSION       = "5.0.12"
+TUNE_FEATURES        = "m64 core2"
+TARGET_FPU           = ""
+meta                 
+meta-poky            
+meta-yocto-bsp       = "my-scarthgap:6400741e0c11d1620a5ebe394d24deec295236f9"
+
+Initialising tasks...Sstate summary: Wanted 2 Local 0 Mirrors 0 Missed 2 Current 4673 (0% match, 99% complete)
+done.
+NOTE: Executing Tasks
+NOTE: Tasks Summary: Attempted 9505 tasks of which 9505 didn't need to be rerun and all succeeded.
