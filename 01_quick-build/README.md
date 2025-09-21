@@ -22,6 +22,3 @@ The first step was completing the official [Quick Build Guide](https://docs.yoct
 - Writing a simple BitBake recipe.
 - Target hardware (Raspberry Pi).
 
-## 🤝 About Me
-I am a B.Tech (Electronics and Computer Engineering) student exploring Embedded Systems & Linux and The Yocto Project for custom Linux distributions.
-
