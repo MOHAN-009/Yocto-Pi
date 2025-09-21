@@ -1,0 +1,34 @@
+Loading cache...done.
+Loaded 1923 entries from dependency cache.
+NOTE: Resolving any missing task queue dependencies
+
+Build Configuration:
+BB_VERSION           = "2.8.0"
+BUILD_SYS            = "x86_64-linux"
+NATIVELSBSTRING      = "universal"
+TARGET_SYS           = "aarch64-poky-linux"
+MACHINE              = "raspberrypi5"
+DISTRO               = "poky"
+DISTRO_VERSION       = "5.0.12"
+TUNE_FEATURES        = "aarch64 crypto cortexa76"
+TARGET_FPU           = ""
+meta                 
+meta-poky            
+meta-yocto-bsp       = "my-scarthgap:6400741e0c11d1620a5ebe394d24deec295236f9"
+meta-raspberrypi     = "scarthgap:aaf976a665daa7e520545908adef8a0e9410b57f"
+
+Initialising tasks...Sstate summary: Wanted 177 Local 177 Mirrors 0 Missed 0 Current 2524 (100% match, 100% complete)
+done.
+NOTE: Executing Tasks
+NOTE: Running setscene task 2596 of 2701 (/home/yocto/yocto/poky/meta/recipes-devtools/git/git_2.44.4.bb:do_package_write_rpm_setscene)
+NOTE: recipe git-2.44.4-r0: task do_package_write_rpm_setscene: Started
+NOTE: recipe git-2.44.4-r0: task do_package_write_rpm_setscene: Succeeded
+NOTE: Running task 5843 of 5846 (/home/yocto/yocto/poky/meta/recipes-extended/images/core-image-full-cmdline.bb:do_populate_lic_deploy)
+NOTE: recipe core-image-full-cmdline-1.0-r0: task do_populate_lic_deploy: Started
+NOTE: recipe core-image-full-cmdline-1.0-r0: task do_populate_lic_deploy: Succeeded
+NOTE: Running task 5844 of 5846 (/home/yocto/yocto/poky/meta/recipes-extended/images/core-image-full-cmdline.bb:do_rm_work)
+NOTE: recipe core-image-full-cmdline-1.0-r0: task do_rm_work: Started
+NOTE: recipe core-image-full-cmdline-1.0-r0: task do_rm_work: Succeeded
+NOTE: Running noexec task 5845 of 5846 (/home/yocto/yocto/poky/meta/recipes-extended/images/core-image-full-cmdline.bb:do_rm_work_all)
+NOTE: Running noexec task 5846 of 5846 (/home/yocto/yocto/poky/meta/recipes-extended/images/core-image-full-cmdline.bb:do_build)
+NOTE: Tasks Summary: Attempted 5846 tasks of which 5842 didn't need to be rerun and all succeeded.
