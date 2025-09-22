@@ -7,7 +7,7 @@ Each numbered folder contains one stage of the journey, with logs, screenshots,
 and configuration files. This serves as both my learning diary and a resource for others starting with Yocto.
 
 ---
-
+https://github.com/mohan-dev-embedded/Yocto-Pi/blob/main/README.md
 ## 📚 Stages Completed
 
 1. [Quick Build](01_quick-build/README.md)  
@@ -19,7 +19,7 @@ and configuration files. This serves as both my learning diary and a resource fo
    - Booted into Raspberry Pi5 and tested login.  
 
 3. [BBlayers and Packages](03_bblayers-and-packages/README.md)
-   - Learnt how do add/remove bblayers using commands.
+   - Learnt how to add/remove bblayers using commands.
    - How to add specific recipes to local.conf before bitbaking.
    - Successfully booted to Pi 5 and tested the recipes.
 
