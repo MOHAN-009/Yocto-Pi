@@ -23,6 +23,11 @@ https://github.com/mohan-dev-embedded/Yocto-Pi/blob/main/README.md
    - How to add specific recipes to local.conf before bitbaking.
    - Successfully booted to Pi 5 and tested the recipes.
 
+4. [Creating and Adding Custom Layer](04_Create-and-add_layers/README.md)
+   - Learnt how to create a custom layer.
+   - Learnt about layer priorities.
+   - Created and Added a custom layer to bblayers.conf file.
+
 ---
 
 ## 🔮 Next Planned Stages
