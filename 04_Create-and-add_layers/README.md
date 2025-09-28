@@ -14,15 +14,15 @@ bitbake-layers show-layers
 - Priority of Layers
     - If there are 2 identical/same packages in 2 different layers, the layer with the highest priority will execute the recipe.
 
-- Created a custom layer(___ In pocky folder ___):
+- Created a custom layer(___In pocky folder___):
 ```bash
 bitbake-layers create-layer meta-myproject
 ```
-    - A new layer will have 4 things in it:
-        1. conf
-        2. COPYING.MIT
-        3. README
-        4. recipes-example
+- A new layer will have 4 things in it:
+    1. conf
+    2. COPYING.MIT
+    3. README
+    4. recipes-example
 
 # Adding Layer
 
